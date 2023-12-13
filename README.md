@@ -1,10 +1,15 @@
 # Guess My Number Game
 
 Welcome to the Guess My Number game! This is a simple guessing game where you try to guess the number chosen by the computer.
-![Game Start](Guess-My-Number.PNG)
+
 
 ## How to Play
 
+![Game Start](Guess-My-Number.PNG)
+*Beginning of game*
+
+![Game Won](correct-answer.PNG)
+*Screenshot of game after winning*
 1. **Difficulty Settings:** 
    - Choose your preferred difficulty setting before starting the game.
    - Difficulty settings may include Easy(1-20), Medium (1-50), and Hard(1-1000).
