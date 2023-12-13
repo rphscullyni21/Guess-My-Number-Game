@@ -1,7 +1,7 @@
 # Guess My Number Game
 
 Welcome to the Guess My Number game! This is a simple guessing game where you try to guess the number chosen by the computer.
-![Game Start](Guess My Number.PNG)
+![Game Start](Guess-My-Number.PNG)
 
 ## How to Play
 
